@@ -24,29 +24,21 @@ Creating a Simple Virtual Network in Azure lab.
 
 <h2>Configuration Process</h2>
 
-<img width="1554" height="670" alt="Creating azure resource group" src="https://github.com/user-attachments/assets/f3fd26fc-61e0-4d05-9eb0-681d0ad91f1b" />
-</p>
-<p>
-When signing up for an Azure subscription, we’ll begin by searching for “Resource groups” in the Azure Portal search bar. Once “Resource groups” appears in the search bar, click on it and click create.
+When signing up for an Azure subscription, created a resource group in the Azure Portal search bar. Once “Resource groups” appears in the search bar, click on it and click create.
 In the screenshot above, the details of the Resource group are as follows:
 
 - Subscription: This refers to the Azure account or billing plan you select to pay for and manage the resources within your Resource Group.
 
 - Resource Group Name: This is the unique name you assign to your Resource Group to identify and organize your resources.
 
-- Region: This indicates the geographic location where Azure hosts your resources. Once filled in, click “Review + Create.”  
-</p>
-<br />
-<p>
-<img width="2112" height="548" alt="azure resource group created" src="https://github.com/user-attachments/assets/a0252b20-39c8-4934-8660-b66859006614" />
-</p>
-<p>
+- Region: This indicates the geographic location where Azure hosts your resources. Once filled in, click “Review + Create.”
+  
 Microsoft Azure resource group has now been created and ready for use.
 
-<h2> Deployment of Windows 11 Pro VM within Resource Group </h2>
+<h2> Create an Azure VNet & Subnet </h2>
 
 <p>
-<img width="1235" height="794" alt="3_create-vm" src="https://github.com/user-attachments/assets/67d83589-e0f2-4ed4-af24-3d0f7994cd3f" />
+<img width="1552" height="1263" alt="Screenshot 2026-09-10 at 6 46 35 PM" src="https://github.com/user-attachments/assets/15d108ae-bb97-446e-b7b5-46d21a3cd54f" />
 <p>
 Now, let’s begin by searching for “Virtual Machines” in the Azure Portal search bar. Once “Virtual Machines” appears in the search bar, click on it under the “Services” section and then click “Create.” As shown in the screenshot above.
 </p>
