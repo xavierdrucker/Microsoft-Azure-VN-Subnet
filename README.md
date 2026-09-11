@@ -62,6 +62,23 @@ Now, you will land on this page. Here, you are able to activate Azure Firewall, 
 
 - If everything looks good, then click Create, and the virtual network will be deployed.
 
+<img width="1644" height="694" alt="Screenshot 2026-09-03 at 5 07 11 PM" src="https://github.com/user-attachments/assets/8d753fe3-0f60-4384-8d76-abb66d396675" />
+
+# Virtual Network Should be Deployed 
+
+<h2> Create a Network Security Group + Associate the NSG with Your Subnet </h2>
+
+<img width="2123" height="918" alt="Screenshot 2026-09-10 at 6 27 07 PM" src="https://github.com/user-attachments/assets/41170634-059a-4750-8668-06c50e2f08b5" />
+
+Now, let’s begin by searching for “Network Security Groups” in the Azure Portal: Network Security Groups → Create.
+
+<img width="2558" height="1274" alt="Screenshot 2026-09-10 at 6 55 00 PM" src="https://github.com/user-attachments/assets/f357ce93-5ad5-4e8d-842c-5e062158ce98" />
+
+Now that the network security group is created, click on the network security group, scroll down to Settings, and click on Subnets, choose the virtual network you created and the subnet, then click OK.
+
+
+
+
 
 
 
