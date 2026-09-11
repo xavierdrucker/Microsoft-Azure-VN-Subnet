@@ -50,7 +50,7 @@ Now, you will land on this page. Here, you are able to activate Azure Firewall, 
 
 <h2> Create a subnet </h2>
 
-<img width="2560" height="1440" alt="Screenshot 2026-09-10 at 6 51 35 PM" src="https://github.com/user-attachments/assets/e0a09e8c-1849-45e0-afd7-895bee5c5608" />
+<img width="1586" height="1265" alt="Screenshot 2026-09-10 at 6 51 35 PM" src="https://github.com/user-attachments/assets/117660ae-214c-4da3-885e-869e36fa427f" />
 
 - To rename a virtual network in Azure, click on “Edit virtual network” under “Virtual Network.”
 
