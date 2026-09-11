@@ -1,5 +1,5 @@
+<img width="1365" height="768" alt="Gemini_Generated_Image_9r4hdc9r4hdc9r4h" src="https://github.com/user-attachments/assets/ecca4702-ae99-4bc0-961a-a5dc34ca35a4" />
 
-<img width="1000" height="250" alt="microsoft-azure" src="https://github.com/user-attachments/assets/86e9ccf8-1383-49a6-a2fe-68b03806d5df" />
 
 # Microsoft Azure VN/Subnet Creation Lab
 Creating a Simple Virtual Network in Azure lab.
