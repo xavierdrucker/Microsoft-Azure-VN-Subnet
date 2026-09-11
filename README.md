@@ -8,7 +8,7 @@ Creating a Simple Virtual Network in Azure lab.
 
 - Azure Resource Group
 - Azure Virtual Network/Subnet
-- Network Security group
+- Network Security Group
 
 <h2>Operating Systems Used </h2>
 
@@ -18,13 +18,13 @@ Creating a Simple Virtual Network in Azure lab.
 <h2> Configuration Steps </h2>
 
 - Step 1 - Create a Resource Group
-- Step 2 - Create Virtual Network on Azure
-- Step 3 - Create Network Security Group
+- Step 2 - Create a Virtual Network on Azure
+- Step 3 - Create a Network Security Group
 - Step 4 - Associate NSG with Subnet
 
 <h2>Configuration Process</h2>
 
-When signing up for an Azure subscription, created a resource group in the Azure Portal search bar. Once “Resource groups” appears in the search bar, click on it and click create.
+When signing up for an Azure subscription, create a resource group in the Azure Portal search bar. Once “Resource groups” appears in the search bar, click on it and click create.
 In the screenshot above, the details of the Resource group are as follows:
 
 - Subscription: This refers to the Azure account or billing plan you select to pay for and manage the resources within your Resource Group.
@@ -33,22 +33,24 @@ In the screenshot above, the details of the Resource group are as follows:
 
 - Region: This indicates the geographic location where Azure hosts your resources. Once filled in, click “Review + Create.”
   
-Microsoft Azure resource group has now been created and ready for use.
+Microsoft Azure resource group has now been created and is ready for use.
 
 <h2> Create an Azure VNet & Subnet </h2>
 
+<img width="2130" height="753" alt="Screenshot 2026-09-10 at 6 42 27 PM" src="https://github.com/user-attachments/assets/fa7dcd06-fdd0-4244-b811-ac0a63e5a696" />
 <p>
 <img width="1552" height="1263" alt="Screenshot 2026-09-10 at 6 46 35 PM" src="https://github.com/user-attachments/assets/15d108ae-bb97-446e-b7b5-46d21a3cd54f" />
 <p>
-Now, let’s begin by searching for “Virtual Networks” in the Azure Portal Virtual networks → Create. Then choose your azure subscription then give the virtual network a name, then choose a region you like the Virtual Network to be in then hit "Next".
+Now, let’s begin by searching for “Virtual Networks” in the Azure Portal: Virtual networks → Create. Then choose your Azure subscription, choose a resource group, give the virtual network a name, then choose a region you want the Virtual Network to be in, and then click "Next".
 </p>
 <img width="1694" height="1258" alt="Screenshot 2026-09-10 at 6 51 08 PM" src="https://github.com/user-attachments/assets/8570b668-1944-4a93-8acc-c2e31da14a08" />
 </p>
-Now, you will land on this page, Here you are able to activate Azure Firewall, Virtual network encryption and whatever security messures you would like to activate. 
+Now, you will land on this page. Here, you are able to activate Azure Firewall, Virtual network encryption, and whatever security measures you would like to activate, then click Next. 
 </p>
 
-<h2> Click "Next: Networking" to move into the Networking section of the VM creation </h2>
-<img width="2554" height="1243" alt="Screenshot 2026-09-02 at 10 26 43 PM" src="https://github.com/user-attachments/assets/cad19d2b-22bd-4200-9fb6-7017cc28a74f" />
+<h2> Create a subnet </h2>
+
+<img width="2560" height="1440" alt="Screenshot 2026-09-10 at 6 51 35 PM" src="https://github.com/user-attachments/assets/e0a09e8c-1849-45e0-afd7-895bee5c5608" />
 
 - To rename a virtual network in Azure, click on “Edit virtual network” under “Virtual Network.”
 
@@ -71,7 +73,7 @@ Now, you will land on this page, Here you are able to activate Azure Firewall, V
  <img width="2554" height="1243" alt="Screenshot 2026-09-03 at 5 28 46 PM" src="https://github.com/user-attachments/assets/1a13e090-4adc-4720-8574-399369ec04ad" /> 
 
  - 💻 RDP from a Mac to a Windows VM
-Download Microsoft Windows App from the Mac App Store.
+Download the Microsoft Windows App from the Mac App Store.
 Open the app and select Add PC.
 Enter the VM's Public IP Address.
 Enter your Windows VM username and password.
