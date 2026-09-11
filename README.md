@@ -37,11 +37,13 @@ Microsoft Azure resource group has now been created and is ready for use.
 
 <h2> Create an Azure Virtual Network </h2>
 
+Now, let’s begin by searching for “Virtual Networks” in the Azure Portal: Virtual networks → Create. Then choose your Azure subscription, choose a resource group, give the virtual network a name, then choose a region you want the Virtual Network to be in, and then click "Next".
+
 <img width="2130" height="753" alt="Screenshot 2026-09-10 at 6 42 27 PM" src="https://github.com/user-attachments/assets/fa7dcd06-fdd0-4244-b811-ac0a63e5a696" />
+<img width="523" height="299" alt="Screenshot 2026-09-10 at 6 43 41 PM" src="https://github.com/user-attachments/assets/87f7cc2a-658e-413c-9a68-1bd51ef5c61a" />
 <p>
 <img width="1552" height="1263" alt="Screenshot 2026-09-10 at 6 46 35 PM" src="https://github.com/user-attachments/assets/15d108ae-bb97-446e-b7b5-46d21a3cd54f" />
 <p>
-Now, let’s begin by searching for “Virtual Networks” in the Azure Portal: Virtual networks → Create. Then choose your Azure subscription, choose a resource group, give the virtual network a name, then choose a region you want the Virtual Network to be in, and then click "Next".
 </p>
 <img width="1694" height="1258" alt="Screenshot 2026-09-10 at 6 51 08 PM" src="https://github.com/user-attachments/assets/8570b668-1944-4a93-8acc-c2e31da14a08" />
 </p>
@@ -52,43 +54,18 @@ Now, you will land on this page. Here, you are able to activate Azure Firewall, 
 
 <img width="1586" height="1265" alt="Screenshot 2026-09-10 at 6 51 35 PM" src="https://github.com/user-attachments/assets/117660ae-214c-4da3-885e-869e36fa427f" />
 
-- To rename a virtual network in Azure, click on “Edit virtual network” under “Virtual Network.”
+- Now, on this page you'll be able to create a subnet. After you create one, click Review + Create
 
 <img width="1592" height="1232" alt="Screenshot 2026-09-03 at 5 06 37 PM" src="https://github.com/user-attachments/assets/e5c710d0-0ee9-4220-8f2b-9a58641f49ac" />
 
-- Validation in Azure, during the review and creation of a virtual machine, involves Azure verifying your configuration settings to ensure they comply with requirements such as valid licensing, resource availability, and correct network settings. This step ensures that everything is properly configured before deployment, thereby preventing errors.
 <img width="338" height="61" alt="12_create-vm-2" src="https://github.com/user-attachments/assets/d141b517-e834-4227-97af-f224d78c8cb2" />
 
-- Once the validation process is completed, click “Create” to finalize the creation of the virtual machine.
-<img width="553" height="460" alt="Screenshot 2026-09-02 at 10 28 20 PM" src="https://github.com/user-attachments/assets/e8b88a7f-e6df-4691-b7f9-0fe5553f0c94" />
+- If everything looks good, then click Create, and the virtual network will be deployed.
 
-- Now your Azure VM should be deploying....–
-<h2> Now your Azure VM should be deployed </h2>
 
-<img width="2554" height="1243" alt="Screenshot 2026-09-02 at 11 00 49 PM" src="https://github.com/user-attachments/assets/bf25a326-0f15-44d2-8396-ca80fe8313bc" />
 
-<h2> Use Remote Desktop to test Windows VM </h2>
- <img width="2554" height="1243" alt="Screenshot 2026-09-03 at 5 28 46 PM" src="https://github.com/user-attachments/assets/1a13e090-4adc-4720-8574-399369ec04ad" /> 
 
- - 💻 RDP from a Mac to a Windows VM
-Download the Microsoft Windows App from the Mac App Store.
-Open the app and select Add PC.
-Enter the VM's Public IP Address.
-Enter your Windows VM username and password.
-Click Connect to access the VM remotely.
 
-- 🪟 RDP from Windows to a Windows VM
-Press Windows Key + R.
-Type mstsc and press Enter.
-Enter the VM's Public IP Address.
-Click Connect.
-Enter your Windows VM username and password.
-You are now connected to the VM through RDP.
 
-- RDP (Remote Desktop Protocol) lets you control a Windows virtual machine from another computer as if you were sitting directly in front of it.
-
-<img width="2554" height="1243" alt="Screenshot 2026-09-03 at 5 30 51 PM" src="https://github.com/user-attachments/assets/c5bac19c-178f-445d-814e-3600b8fcb754" />
-
+  
 <h2> Conclusion </h2>
-
-- This project showcases the immense power and versatility of Microsoft Azure in creating a virtual machine. It provides hands-on experience with both Windows and Linux environments in a cloud setting. By leveraging Azure’s Resource Groups and virtual networks, users acquire crucial skills in configuring and connecting VMs. This practical experience deepens their understanding of virtualization and network management, laying a solid foundation for mastering virtual machine deployment and virtual network setups in cloud environments.
