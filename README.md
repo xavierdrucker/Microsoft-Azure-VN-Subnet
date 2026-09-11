@@ -18,8 +18,9 @@ Creating a Simple Virtual Network in Azure lab.
 <h2> Configuration Steps </h2>
 
 - Step 1 - Create a Resource Group
-- Step 2 - Create Windows 11 Pro VM within Resource Group
-- Step 3 - Use Remote Desktop to test Windows VM functionality
+- Step 2 - Create Virtual Network on Azure
+- Step 3 - Create Network Security Group
+- Step 4 - Associate NSG with Subnet
 
 <h2>Configuration Process</h2>
 
