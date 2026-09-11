@@ -72,7 +72,7 @@ Now, you will land on this page. Here, you are able to activate Azure Firewall, 
 
 Now, let’s begin by searching for “Network Security Groups” in the Azure Portal: Network Security Groups → Create.
 
-<img width="2558" height="1274" alt="Screenshot 2026-09-10 at 6 55 00 PM" src="https://github.com/user-attachments/assets/f357ce93-5ad5-4e8d-842c-5e062158ce98" />
+<img width="2558" height="1274" alt="Screenshot 2026-09-10 at 6 55 00 PM" src="https://github.com/user-attachments/assets/5c718d5f-5cfd-47b4-a721-8ead76003144" />
 
 Now that the network security group is created, click on the network security group, scroll down to Settings, and click on Subnets, choose the virtual network you created and the subnet, then click OK.
 
