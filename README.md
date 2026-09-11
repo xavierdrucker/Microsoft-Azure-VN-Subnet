@@ -54,9 +54,7 @@ Now, you will land on this page. Here, you are able to activate Azure Firewall, 
 
 - To rename a virtual network in Azure, click on “Edit virtual network” under “Virtual Network.”
 
--  Having virtual machines (VMs) on the same virtual network enables them to communicate swiftly and securely with minimal latency, as they reside within the same isolated network environment. This simplifies the setup for tasks such as testing or data sharing between VMs, eliminating the need for intricate routing or public internet access. Next, click on "Review + Create" to be taken to the VM summary page. 
- <img width="749" height="646" alt="Screenshot 2026-09-02 at 10 26 43 PM 2" src="https://github.com/user-attachments/assets/a8e9534d-89b9-4283-83ab-421c352a4045" />
- <img width="1017" height="584" alt="12_create-vm" src="https://github.com/user-attachments/assets/55c606b3-1faa-44d3-b6d7-e590895fe30a" />
+<img width="1592" height="1232" alt="Screenshot 2026-09-03 at 5 06 37 PM" src="https://github.com/user-attachments/assets/e5c710d0-0ee9-4220-8f2b-9a58641f49ac" />
 
 - Validation in Azure, during the review and creation of a virtual machine, involves Azure verifying your configuration settings to ensure they comply with requirements such as valid licensing, resource availability, and correct network settings. This step ensures that everything is properly configured before deployment, thereby preventing errors.
 <img width="338" height="61" alt="12_create-vm-2" src="https://github.com/user-attachments/assets/d141b517-e834-4227-97af-f224d78c8cb2" />
