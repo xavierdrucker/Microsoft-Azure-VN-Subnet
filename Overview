@@ -1,0 +1,40 @@
+# Azure Networking Home Lab
+
+## Overview
+
+Built a basic Microsoft Azure network to practice foundational cloud networking concepts.
+
+## What I Built
+
+* Azure Resource Group
+* Virtual Network (VNet)
+* Subnet
+* Network Security Group (NSG)
+* NSG-to-Subnet association
+
+## Network Configuration
+
+**Virtual Network:** `vnet-home-lab`
+**Address Space:** `10.0.0.0/16`
+
+**Subnet:** `subnet-lab`
+**Subnet Range:** `10.0.1.0/24`
+
+**Network Security Group:** `nsg-home-lab`
+
+## Skills Demonstrated
+
+* Microsoft Azure
+* Virtual Networks (VNet)
+* IPv4 addressing
+* Subnetting
+* Network Security Groups
+* Basic cloud networking
+
+## Architecture
+
+Azure → VNet → Subnet → NSG
+
+## What I Learned
+
+I learned how Azure Virtual Networks provide private network space, how subnets divide that network, and how Network Security Groups control network traffic.
