@@ -24,7 +24,7 @@ Creating a Simple Virtual Network in Azure lab.
 
 <h2>Configuration Process</h2>
 
-When signing up for an Azure subscription, create a resource group in the Azure Portal search bar. Once “Resource groups” appears in the search bar, click on it and click create.
+When signing up for an Azure subscription, create a resource group in the Azure Portal search bar. Once “Resource groups” appears in the search bar, click on it and click Create.
 In the screenshot above, the details of the Resource group are as follows:
 
 - Subscription: This refers to the Azure account or billing plan you select to pay for and manage the resources within your Resource Group.
@@ -35,7 +35,7 @@ In the screenshot above, the details of the Resource group are as follows:
   
 Microsoft Azure resource group has now been created and is ready for use.
 
-<h2> Create an Azure VNet & Subnet </h2>
+<h2> Create an Azure Virtual Network </h2>
 
 <img width="2130" height="753" alt="Screenshot 2026-09-10 at 6 42 27 PM" src="https://github.com/user-attachments/assets/fa7dcd06-fdd0-4244-b811-ac0a63e5a696" />
 <p>
