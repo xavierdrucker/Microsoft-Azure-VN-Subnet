@@ -13,7 +13,7 @@ Creating a Simple Virtual Network in Azure lab.
 <h2>Operating Systems Used </h2>
 
 - MacBook Air M2 (Host Machine)
-- Windows 11 Pro </b> (25H2 ) (Virtual Machine)
+- Microsoft Corporation Azure Cloud Computing
 
 <h2> Configuration Steps </h2>
 
@@ -76,13 +76,10 @@ Now, let’s begin by searching for “Network Security Groups” in the Azure P
 
 Now that the network security group is created, click on the network security group, scroll down to Settings, and click on Subnets, choose the virtual network you created and the subnet, then click OK.
 
+<img width="2559" height="1156" alt="Screenshot 2026-09-10 at 6 55 02 PM" src="https://github.com/user-attachments/assets/4fc1d26b-3eeb-4434-8317-0b74fba67ac0" />
 
-
-
-
-
-
-
-
-  
 <h2> Conclusion </h2>
+
+
+# Now, at this point, the virtual network has been created along with the network security group associated with the subnet within the virtual network.
+
